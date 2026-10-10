@@ -1,2 +1,0 @@
-mode,N,cache_pages,page_size,key_len,payload_len,insert_s,avg_insert_us,wall_s,avg_search_us,p50_search_us,p99_search_us,height,leaves,internals,leaf_fill_pct,index_mb,peak_rss_mb,disk_mb,ins_reads,ins_writes,ins_hits,ins_misses,srch_reads,srch_writes,srch_hits,srch_misses,cold
-mem,1000000,0,4096,12,100,0.615,0.615,0.735,0.470,0.400,1.000,3,39769,257,69.85,156.4,175.8,0.0,0,0,0,0,0,0,0,0,0
